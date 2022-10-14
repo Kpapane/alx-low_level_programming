@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdlib.h>
 /**
  * main - prints if number is 5 less than 6 or zero
  *
