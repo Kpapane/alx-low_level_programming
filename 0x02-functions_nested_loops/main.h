@@ -5,5 +5,5 @@
  * @c: parameter passed
  * Return: if any
  */
-int _putchar(char c)
+char _putchar(char c)
 #endif
